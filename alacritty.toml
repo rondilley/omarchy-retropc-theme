@@ -10,9 +10,10 @@ padding.x = 12
 padding.y = 12
 
 [font]
-size = 12.0
-
-
+normal = { family = "Bm437 IBM XGA-AI 12x23", style = "Regular" }
+bold = { family = "Bm437 IBM XGA-AI 12x23", style = "Bold" }
+italic = { family = "MBm437 IBM XGA-AI 12x23", style = "Italic" }
+size = 12
 
 [colors]
 [colors.primary]
