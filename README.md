@@ -36,7 +36,7 @@ This theme includes configurations for:
 - Walker (walker.css)
 - SwayOSD (swayosd.css)
 - Desktop Background (backgrounds/amber_tube.jpg)
-- Font (fonts/MxPlus_IBM_XGA-AI_12x20.ttf)
+- Font (fonts/Bm437_IBM_XGA-AI_12x23.otb)
 
 ## Recommended additions
 Cool Retro Term
