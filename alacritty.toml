@@ -1,0 +1,53 @@
+# ────────────────────────────────────────────────────────────
+# Omarchy RetroPC Theme for Alacritty
+# By Ron Dilley
+# https://github.com/rondilley
+# ────────────────────────────────────────────────────────────
+
+[window]
+# window padding {px}
+padding.x = 12
+padding.y = 12
+
+[font]
+size = 12.0
+
+
+
+[colors]
+[colors.primary]
+background = "#0A0A08"
+foreground = "#FFB000"
+dim_foreground = "#996600"
+
+[colors.cursor]
+text = "#0A0A08"
+cursor = "#FFCC00"
+
+[colors.vi_mode_cursor]
+text = "#0A0A08"
+cursor = "#FFCC00"
+
+[colors.selection]
+text = "CellForeground"
+background = "#2A1F00"
+
+[colors.normal]
+black = "#2A1F00"
+red = "#FF8800"
+green = "#FFCC00"
+yellow = "#FFD700"
+blue = "#CC9900"
+magenta = "#FF9900"
+cyan = "#CC9900"
+white = "#D4AA00"
+
+[colors.bright]
+black = "#805500"
+red = "#FFAA00"
+green = "#FFCC00"
+yellow = "#FFDD00"
+blue = "#FFBB00"
+magenta = "#FFAA00"
+cyan = "#FFB000"
+white = "#FFCC00"
