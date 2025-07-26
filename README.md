@@ -50,6 +50,18 @@ cp fonts/Bm437_IBM_XGA-AI_12x23.otb ~/.local/share/fonts/retro
 fc-cache
 ```
 
+## Using Retro Fonts
+
+**Don't forget to comment out the font definitions in ~/.config/alacritty.toml**
+
+```
+#[font]
+#normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
+#bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
+#italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
+#size = 9
+```
+
 ## Inspiration
 [https://github.com/bjarneo/omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme)
 
