@@ -4,3 +4,10 @@
 @define-color border #CC990088;
 @define-color foreground #FFB000;
 @define-color background #0A0A08;
+@define-color selection-highlight #FFCC00;
+
+child:selected,
+child:hover {
+  background: @selection-highlight;
+  color: @selected-text;
+}
